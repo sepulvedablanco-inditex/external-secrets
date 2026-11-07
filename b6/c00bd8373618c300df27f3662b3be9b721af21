@@ -1,0 +1,33 @@
+docs/provider/webhook.md
+  s_d981b4feb005ac::t_3dfe3b968f7385 183-231
+pkg/controllers/externalsecret/externalsecret_controller_secret.go
+  s_d981b4feb005ac::t_293c530be85449 45-46
+pkg/controllers/externalsecret/externalsecret_controller_secret_test.go
+  s_d981b4feb005ac::t_9a47b259c9a0b9 1-135
+providers/v1/webhook/pkg/webhook/webhook.go
+  s_d981b4feb005ac::t_4e11097d368b02 127,150-173,302,355,468,477
+providers/v1/webhook/pkg/webhook/webhook_metadata_test.go
+  s_d981b4feb005ac::t_6e8a4636173755 1-207
+providers/v1/webhook/webhook_test.go
+  s_d981b4feb005ac::t_563c1243999be9 36,39-80
+runtime/esutils/externalsecret_context.go
+  s_d981b4feb005ac::t_9f06f3ed1010d8 1-49
+runtime/esutils/externalsecret_context_test.go
+  s_d981b4feb005ac::t_55efe3ee54df31 1-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b6c00bd8373618c300df27f3662b3be9b721af21",
+  "prompts": {},
+  "sessions": {
+    "s_d981b4feb005ac": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "s_d981b4feb005ac",
+        "model": "unknown"
+      },
+      "human_author": "Diego Sepúlveda Blanco <diegosb@inditex.com>"
+    }
+  }
+}
