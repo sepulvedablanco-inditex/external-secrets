@@ -1,0 +1,19 @@
+pkg/controllers/externalsecret/externalsecret_controller_secret_test.go
+  s_bf0cb1a772d190::t_2086439e120687 35-57,59-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "41a646ca3857cc98988393658a3132ef53f0604b",
+  "prompts": {},
+  "sessions": {
+    "s_bf0cb1a772d190": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "s_bf0cb1a772d190",
+        "model": "unknown"
+      },
+      "human_author": "Diego Sepúlveda Blanco <diegosb@inditex.com>"
+    }
+  }
+}
